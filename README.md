@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🎧 Real-Time Audio Emotion Recognition App
 
 This project is a **real-time audio emotion recognition system** that predicts human emotions from speech audio using machine learning.  
@@ -149,6 +147,3 @@ This project is intended for **educational and academic use**.
 
 ```
 
----
-- review your repo for **final submission readiness**.
-```
