@@ -38,6 +38,7 @@ audio_emotion_recognition/
 │   └── emotion_model.pkl
 └── README.md
 
+
 📊 Dataset
 
 The model is trained using the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset.
@@ -52,7 +53,7 @@ The dataset is used only for training and is not included in this repository.
 
 ⚙️ Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/audio_emotion_recognition.git
+git clone https://github.com/Prayassss/audio_emotion_recognition.git
 cd audio_emotion_recognition
 
 2. Create and activate virtual environment (Windows)
@@ -80,9 +81,7 @@ http://localhost:8501
 
 🌐 Live Demo
 
-🔗 Project URL: https://your-app-name.streamlit.app
-
-(Replace with your actual deployment link)
+🔗 Project URL: https://emotionrecognition-elc.streamlit.app/
 
 📈 Real-Time Implementation
 
