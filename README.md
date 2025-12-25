@@ -1,5 +1,6 @@
 
 
+```markdown
 # 🎧 Real-Time Audio Emotion Recognition App
 
 This project is a **real-time audio emotion recognition system** that predicts human emotions from speech audio using machine learning.  
@@ -30,7 +31,7 @@ Users can upload an audio file, visualize the waveform, and instantly receive th
 
 ## 📂 Project Structure
 
-
+```
 
 audio_emotion_recognition/
 ├── app.py
@@ -40,7 +41,7 @@ audio_emotion_recognition/
 │   └── emotion_model.pkl
 └── README.md
 
-
+````
 
 ---
 
@@ -59,19 +60,23 @@ The model is trained using the **RAVDESS (Ryerson Audio-Visual Database of Emoti
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-
+```bash
 git clone https://github.com/Prayassss/audio_emotion_recognition.git
 cd audio_emotion_recognition
-
+````
 
 ### 2. Create and activate virtual environment (Windows)
 
+```powershell
 python -m venv .venv
 .\.venv\Scripts\activate
+```
 
 ### 3. Install dependencies
 
+```powershell
 python -m pip install -r requirements.txt
+```
 
 ---
 
@@ -144,4 +149,6 @@ This project is intended for **educational and academic use**.
 
 ```
 
-
+---
+- review your repo for **final submission readiness**.
+```
