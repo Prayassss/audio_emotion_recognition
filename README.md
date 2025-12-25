@@ -29,13 +29,14 @@ Streamlit – web application deployment
 
 Matplotlib – waveform visualization
 
-📂 Project Structure
+## 📂 Project Structure
+
 audio_emotion_recognition/
 ├── app.py
 ├── train_model.py
 ├── requirements.txt
 ├── model/
-│   └── emotion_model.pkl
+│ └── emotion_model.pkl
 └── README.md
 
 
